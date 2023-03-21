@@ -8,7 +8,7 @@ Building a smart home model with Arduino involves integrating different sensors,
 
 Materials needed:
 
-    Arduino Uno or Arduino Nano microcontroller board
+    Arduino Mega microcontroller board
     Breadboard and jumper wires
     Various sensors (e.g., temperature, humidity, light, motion, etc.)
     Various actuators (e.g., LED lights, motors, relays, etc.)
