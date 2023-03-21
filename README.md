@@ -29,6 +29,10 @@ TEMPERATURE SENSING SYSTEM
 
 ![Temp Sensing 2](https://user-images.githubusercontent.com/102630199/226654150-200a5e31-5190-4726-be49-f6e99d553fa4.PNG)
 
+SMART DOOR SYSTEM
+
+![image](https://user-images.githubusercontent.com/102630199/226657742-86e25596-7131-4ebf-a0cb-431a7592b404.png)
+
 
 LIGHTING SYSTEM
 
