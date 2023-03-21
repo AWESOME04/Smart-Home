@@ -1,4 +1,7 @@
 # Smart-House
+
+![1](https://user-images.githubusercontent.com/102630199/226654430-6a6fb638-da4e-46c7-a65e-e79f27cbb241.PNG)
+
 The project involves integrating sensors, actuators, and controllers to detect data from the environment and trigger actions on different devices
 
 Building a smart home model with Arduino involves integrating different sensors, actuators, and microcontrollers to automate various aspects of a home. Here's a step-by-step guide on how to build a smart home model with Arduino:
@@ -18,6 +21,20 @@ Connect the Arduino board to the computer using a USB cable and install the Ardu
 Step 2: Adding sensors
 Connect the sensors to the Arduino board using jumper wires and a breadboard. Each sensor requires a specific connection protocol. Check the manufacturer's documentation for details.
 
+SMOKE DETECTION SYSTEM
+
+![Ingenious Lappi-Waasa](https://user-images.githubusercontent.com/102630199/226653839-be6790ec-152e-4678-9176-940301789df5.png)
+
+TEMPERATURE SENSING SYSTEM
+
+![Temp Sensing 2](https://user-images.githubusercontent.com/102630199/226654150-200a5e31-5190-4726-be49-f6e99d553fa4.PNG)
+
+
+LIGHTING SYSTEM
+
+![SL](https://user-images.githubusercontent.com/102630199/226654843-38f22d79-6c30-4794-b69b-1f4f4b649ce5.jpeg)
+
+
 Step 3: Adding actuators
 Connect the actuators to the Arduino board using jumper wires and a breadboard. Each actuator requires a specific connection protocol. Check the manufacturer's documentation for details.
 
@@ -32,5 +49,13 @@ Add WiFi connectivity to the smart home model using a WiFi module. This allows t
 
 Step 7: Finalizing the smart home model
 Finalize the smart home model by assembling the components and connecting them to a power source. Use a case or enclosure to protect the components from dust and moisture. Make sure that the smart home model is safe to use and follows all relevant safety guidelines.
+
+
+![3](https://user-images.githubusercontent.com/102630199/226655183-9db32145-c5e8-46e2-a64a-d057b5239290.PNG)
+
+
+FINAL PROTEUS DESIGN
+![final design](https://user-images.githubusercontent.com/102630199/226653603-d231e898-6104-42d2-af5b-65b1056e2c23.png)
+
 
 Overall, building a smart home model with Arduino requires knowledge of electronics and programming. However, it can be a fun and rewarding project for hobbyists and makers.
