@@ -28,6 +28,7 @@ Connect the Arduino board to the computer using a USB cable and install the Ardu
 Connect the sensors to the Arduino board using jumper wires and a breadboard. Each sensor requires a specific connection protocol. Check the manufacturer's documentation for details.
 
 <br>
+
 #### SMOKE DETECTION SYSTEM 🔥
 
 ![Ingenious Lappi-Waasa](https://user-images.githubusercontent.com/102630199/226653839-be6790ec-152e-4678-9176-940301789df5.png)
