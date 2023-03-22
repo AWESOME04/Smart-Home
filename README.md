@@ -59,7 +59,8 @@ Finalize the smart home model by assembling the components and connecting them t
 
 
 FINAL PROTEUS DESIGN
-![final design](https://user-images.githubusercontent.com/102630199/226653603-d231e898-6104-42d2-af5b-65b1056e2c23.png)
+![Final Proteus Design](https://user-images.githubusercontent.com/102630199/226955224-1d36b5e5-7611-4945-b828-1d73d479db2a.jpg)
+
 
 
 Overall, building a smart home model with Arduino requires knowledge of electronics and programming. However, it can be a fun and rewarding project for hobbyists and makers.
