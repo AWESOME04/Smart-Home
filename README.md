@@ -35,7 +35,7 @@ Connect the sensors to the Arduino board using jumper wires and a breadboard. Ea
 
 #### TEMPERATURE SENSING SYSTEM 🥵
 
-![Temp Sensing 2](https://user-images.githubusercontent.com/102630199/226654150-200a5e31-5190-4726-be49-f6e99d553fa4.PNG)
+![Temp Sensing Design](https://user-images.githubusercontent.com/102630199/227768731-59ebdb13-64da-4921-bb16-7d1054c56180.jpg)
 
 #### SMART DOOR SYSTEM 🚪
 
