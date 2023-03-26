@@ -1,6 +1,0 @@
-EXTRAS
-•	Fan which uses a DC motor and cardboard blades
-•	Servo motor to lower and raise curtains
-•	Bell 
-•	Face Recognition to automatically detect the faces of visitors and add them to the database
-	
