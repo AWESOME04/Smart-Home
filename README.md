@@ -6,6 +6,8 @@ The project involves integrating sensors, actuators and controllers to detect da
 
 Building a smart home model with Arduino involves integrating different sensors, actuators, and microcontrollers to automate various aspects of a home. Here's a step-by-step guide on how to build a smart home model with Arduino:
 
+![c901e7_f67d689530b2406fb95ae6c7b351d090~mv2](https://user-images.githubusercontent.com/102630199/228669982-6660f0da-0191-4555-8c14-4e17309e203d.png)
+
 <br>
 
 # Materials needed:
